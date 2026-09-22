@@ -1,0 +1,6 @@
+{
+  "name": "Supriya",
+  "description": "Supriya - Connect. Create. Share. Modern social media platform for photos, short videos, stories, messaging, and community.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
